@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe.config
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\bin\Debug\Dice_Game.pdb
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\obj\Debug\Dice_Game.exe
+C:\Users\DELL\source\repos\Dice_Game\Dice_Game\obj\Debug\Dice_Game.pdb
